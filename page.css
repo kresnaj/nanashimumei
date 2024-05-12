@@ -1,0 +1,17 @@
+.hidden-page1 {
+    opacity: 0;
+}
+
+.showPage1 {
+    opacity: 1;
+    transition: all 1s; 
+}
+
+.p1 {
+    opacity: 0;
+}
+
+.showP1 {
+    opacity: 1;
+    transition: 3s;
+}
